@@ -138,3 +138,11 @@ Curated list of resources to start and grow your startup
 - [Namechk](https://namechk.com/)
 - [BrandBucket](https://www.brandbucket.com/)
 - [Squadhelp](https://www.squadhelp.com/)
+
+## Market Research
+- [GutCheck](https://www.gutcheckit.com/)
+- [Statista - Business Data Platform](https://www.statista.com/)
+- [Google Trends](https://trends.google.com/trends/)
+- [Aytm](https://aytm.com/)
+- [Similar Web](https://www.similarweb.com/pt)
+- [Compass](https://www.compass.co/)
