@@ -1,7 +1,32 @@
 # Awesome Startup Resources
 Curated list of resources to start and grow your startup
 
+- [General](#general)
+- [Books](#books)
+- [Inspiration](#inspiration)
+- [Videos](#videos)
+- [Customer Discovery](#customerdiscovery)
+- [Customer Validation](#customervalidation)
+- [Customer Creation](#customercreation)
+- [Company Building](#companybuilding)
+- [KPIs and OKRs](#kpisandokrs)
+- [Incubators / Accelerators](#incubatorsaccelerators)
+- [Places to post your startup](#placestopostyourstartup)
+- [Raising Money](#raisingmoney)
+- [Tools](#tools)
+  - [Marketing](#marketing)
+  - [Analytics](#analytics)
+  - [Task & Project Management](#taskprojectmanagement)
+  - [Design](#design)
+  - [MVP](#mvp)
+  - [Research](#research)
+  - [Payments](#payments)
+  - [Hosting](#hosting)
+  - [Naming](#naming)
+  - [Domain Names](#domainnames)
+
 # General
+- [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 
 # Books
 
@@ -9,12 +34,14 @@ Curated list of resources to start and grow your startup
 - [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
-- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
+- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Notes on Startups, or How to Build the Future
 - [Make - Bootstrapper's Handbook ](https://makebook.io/)
 
 # Inspiration
 
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
+- [Product Hunt](http://www.producthunt.com/)
+- [Hacker News](https://news.ycombinator.com/)
 
 # Videos
 
@@ -26,7 +53,7 @@ Curated list of resources to start and grow your startup
 # Customer Validation
 
 ## Product-Market fit
-- https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit
+- [Fundamentals of Product-Market fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit)
 
 # Customer Creation
 
@@ -36,9 +63,9 @@ Curated list of resources to start and grow your startup
 - [Curated List](https://github.com/domenicosolazzo/awesome-okr)
 
 # Incubators / Accelerators
-- [YCombinator]
-- [500Startups]
-- [Plug'n play]
+- [YCombinator](https://www.ycombinator.com/)
+- [500Startups](https://500.co/)
+- [Plug and Play](https://www.plugandplaytechcenter.com/)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
