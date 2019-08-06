@@ -49,6 +49,7 @@ Curated list of resources to start and grow your startup
 - [Mind The Product](https://www.youtube.com/channel/UCiT1BmYvOBsEvU9iw0076Sw/videos?)
 
 # Customer Discovery
+- [The Mon Test](https://www.amazon.com.br/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U)
 
 # Customer Validation
 
@@ -92,6 +93,7 @@ Curated list of resources to start and grow your startup
 ## Analytics
 - [Amplitude - Product Analytics for Web and Mobile](https://amplitude.com/)
 - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
 
 ## Task & Project Management
 - [Asana](https://asana.com) - Track your team's work & manage projects
