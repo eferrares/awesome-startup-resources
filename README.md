@@ -58,6 +58,7 @@ Curated list of resources to start and grow your startup
 # Customer Creation
 
 # Company Building
+- [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
 
 # KPIs and OKRs
 - [Curated List](https://github.com/domenicosolazzo/awesome-okr)
@@ -123,8 +124,14 @@ Curated list of resources to start and grow your startup
 - [Stripe](https://stripe.com)
 
 ## Hosting
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Heroku](https://www.heroku.com/)
+- [Amazon AWS](https://aws.amazon.com/)
 
 ## Naming
-
-## Domain Names
-
+- [Panabee](https://www.panabee.com/)
+- [Namemesh](https://www.namemesh.com/)
+- [Naminum](http://www.naminum.com)
+- [Namechk](https://namechk.com/)
+- [BrandBucket](https://www.brandbucket.com/)
+- [Squadhelp](https://www.squadhelp.com/)
