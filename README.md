@@ -119,6 +119,7 @@ Curated list of resources to start and grow your startup
 - [UX Archive - The iPhone app archive](http://uxarchive.com/)
 - [UI-Cloud - The largest user interface design database in the world.](http://ui-cloud.com)
 - [Pttrns - Collection of app designs](https://pttrns.com/)
+- [easelly - Create infographics](https://www.easel.ly/)
 
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
