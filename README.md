@@ -11,6 +11,7 @@ Curated list of resources to start and grow your startup
 - [Company Building](#companybuilding)
 - [KPIs and OKRs](#kpisandokrs)
 - [Incubators / Accelerators](#incubatorsaccelerators)
+- [Online Communities](#onlinecommunities)
 - [Places to post your startup](#placestopostyourstartup)
 - [Raising Money](#raisingmoney)
 - [Tools](#tools)
