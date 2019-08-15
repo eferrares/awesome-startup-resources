@@ -121,6 +121,7 @@ Curated list of resources to start and grow your startup
 - [Pttrns - Collection of app designs](https://pttrns.com/)
 
 - [Figma](https://www.figma.com/)
+- [Canva](https://www.canva.com/)
 
 - [Invision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
