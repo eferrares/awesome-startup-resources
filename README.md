@@ -31,6 +31,7 @@ Curated list of resources to start and grow your startup
 # Books
 
 - [The Four Steps to the Epiphany - Steve Blank](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
+- [The Startup Owner's Manual - Steve Blank](https://www.amazon.com.br/Startup-Owners-Manual-Step-Step/dp/0984999302)
 - [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
@@ -43,6 +44,7 @@ Curated list of resources to start and grow your startup
 - [Product Hunt](http://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Chunch Base](https://www.crunchbase.com/)
+- [SaaS Pages](https://saaspages.xyz) - A collection of the best landing pages with a focus on copywriting and design
 
 # Videos
 
@@ -51,6 +53,7 @@ Curated list of resources to start and grow your startup
 
 # Customer Discovery
 - [The Mon Test](https://www.amazon.com.br/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U)
+- [Empathy Map](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/)
 
 # Customer Validation
 
@@ -61,6 +64,7 @@ Curated list of resources to start and grow your startup
 
 # Company Building
 - [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
+- [Growthhacklist](https://growthhacklist.com/) - Growthhacklist is a global community of makers & creators building an online business.
 
 # KPIs and OKRs
 - [Curated List](https://github.com/domenicosolazzo/awesome-okr)
@@ -70,8 +74,12 @@ Curated list of resources to start and grow your startup
 - [500Startups](https://500.co/)
 - [Plug and Play](https://www.plugandplaytechcenter.com/)
 
+# Online Communities
+- [/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [BetaPage](https://betapage.co/)
 
 # Raising Money
 - https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
