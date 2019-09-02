@@ -43,6 +43,7 @@ Curated list of resources to start and grow your startup
 
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
 - [Product Hunt](http://www.producthunt.com/)
+- [Startup decks](https://startupdecks.co/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Chunch Base](https://www.crunchbase.com/)
 - [SaaS Pages](https://saaspages.xyz) - A collection of the best landing pages with a focus on copywriting and design
