@@ -127,6 +127,7 @@ Curated list of resources to start and grow your startup
 - [UI-Cloud - The largest user interface design database in the world.](http://ui-cloud.com)
 - [Pttrns - Collection of app designs](https://pttrns.com/)
 - [easelly - Create infographics](https://www.easel.ly/)
+- [Glaze - Free illustrations](https://www.glazestock.com/)
 
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
