@@ -71,6 +71,8 @@ Curated list of resources to start and grow your startup
 
 # Customer Creation
 
+
+
 # Company Building
 - [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
 - [Growthhacklist](https://growthhacklist.com/) - Growthhacklist is a global community of makers & creators building an online business.
@@ -85,6 +87,7 @@ Curated list of resources to start and grow your startup
 
 # Online Communities
 - [/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+- [/r/startups](https://www.reddit.com/r/startups/)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
