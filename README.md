@@ -143,6 +143,7 @@ Curated list of resources to start and grow your startup
 
 
 ## MVP
+- [Unicorn Platform](https://unicornplatform.com/)
 
 ## Research
 - [Survey Monkey](https://pt.surveymonkey.com/)
