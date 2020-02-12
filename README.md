@@ -67,6 +67,7 @@ Curated list of resources to start and grow your startup
 
 ## Product-Market fit
 - [Fundamentals of Product-Market fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit)
+- [Superhuman article](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
 # Customer Creation
 
