@@ -88,6 +88,7 @@ Curated list of resources to start and grow your startup
 # Online Communities
 - [/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 - [/r/startups](https://www.reddit.com/r/startups/)
+- [Indie Hackers](https://www.indiehackers.com/)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
