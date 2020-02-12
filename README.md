@@ -56,6 +56,7 @@ Curated list of resources to start and grow your startup
 # Videos
 
 - [Startup School 2018 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5NVnJ_cLWM7dLuMQRDeekoX)
+- [Startup School 2019 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG)
 - [Mind The Product](https://www.youtube.com/channel/UCiT1BmYvOBsEvU9iw0076Sw/videos?)
 
 # Customer Discovery
