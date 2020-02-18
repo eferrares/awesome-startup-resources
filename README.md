@@ -38,6 +38,7 @@ Curated list of resources to start and grow your startup
 - [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Notes on Startups, or How to Build the Future
 - [Make - Bootstrapper's Handbook ](https://makebook.io/)
+- [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.amazon.com.br/Inspired-Create-Tech-Products-Customers/)
 
 # Inspiration
 
