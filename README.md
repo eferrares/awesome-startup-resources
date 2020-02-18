@@ -79,6 +79,11 @@ Curated list of resources to start and grow your startup
 - [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
 - [Growthhacklist](https://growthhacklist.com/) - Growthhacklist is a global community of makers & creators building an online business.
 
+# Co-founders
+- [Founders and co-founders by startups.com](https://www.startups.com/library/expert-advice/startup-founders-and-cofounders)
+- [How to Find a Co-Founder For Your Startup?](https://www.cloudways.com/blog/how-to-find-a-co-founder-for-startup/)
+- [How to split equity among co-founders](https://blog.ycombinator.com/splitting-equity-among-founders/)
+
 # KPIs and OKRs
 - [Curated List](https://github.com/domenicosolazzo/awesome-okr)
 
