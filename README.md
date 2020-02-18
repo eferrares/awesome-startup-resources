@@ -134,13 +134,10 @@ Curated list of resources to start and grow your startup
 - [Pttrns - Collection of app designs](https://pttrns.com/)
 - [easelly - Create infographics](https://www.easel.ly/)
 - [Glaze - Free illustrations](https://www.glazestock.com/)
-
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
-
 - [Invision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
-
 
 ## MVP
 - [Unicorn Platform](https://unicornplatform.com/)
