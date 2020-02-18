@@ -98,7 +98,7 @@ Curated list of resources to start and grow your startup
 - [Product Hunt](http://www.producthunt.com/)
 
 # Raising Money
-- https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
+- [Investopedia article](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 - https://www.chagency.co.uk/getstartupfunding/ - A curated library of venture capital investment pitch decks
 
 # Tools
