@@ -95,6 +95,7 @@ Curated list of resources to start and grow your startup
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [BetaPage](https://betapage.co/)
+- [Product Hunt](http://www.producthunt.com/)
 
 # Raising Money
 - https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
@@ -149,6 +150,9 @@ Curated list of resources to start and grow your startup
 
 ## Payments
 - [Stripe](https://stripe.com)
+- [PayPal](https://www.paypal.com/br/home)
+- [Adyen](https://www.adyen.com)
+- [PagarMe](https://pagar.me/)
 
 ## Hosting
 - [Digital Ocean](https://www.digitalocean.com/)
