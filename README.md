@@ -164,6 +164,9 @@ Curated list of resources to start and grow your startup
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon AWS](https://aws.amazon.com/)
+- [Goocle Cloud Plataform](https://cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com)
+- [Back4App](https://www.back4app.com/)
 
 ## Naming
 - [Panabee](https://www.panabee.com/)
