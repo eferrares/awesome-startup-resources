@@ -103,11 +103,13 @@ Curated list of resources to start and grow your startup
 - [/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 - [/r/startups](https://www.reddit.com/r/startups/)
 - [Indie Hackers](https://www.indiehackers.com/)
+- [AngelList](https://angel.co/)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
+- [betalist.com](https://betalist.com) - Discover and get early access to tomorrow's startup
 
 # Raising Money
 - [Investopedia article](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
@@ -158,6 +160,7 @@ Curated list of resources to start and grow your startup
 
 ## MVP
 - [Unicorn Platform](https://unicornplatform.com/)
+- [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 
 ## Research
 - [Survey Monkey](https://pt.surveymonkey.com/)
