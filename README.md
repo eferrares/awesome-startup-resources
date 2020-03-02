@@ -42,6 +42,11 @@ Curated list of resources to start and grow your startup
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/)
 - [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.amazon.com.br/Inspired-Create-Tech-Products-Customers/)
 - [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com.br/Hard-Thing-about-Things-Building/)
+- [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
+- [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
+- [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
+- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+- [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 
 # Inspiration
 
