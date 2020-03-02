@@ -28,6 +28,7 @@ Curated list of resources to start and grow your startup
 
 # General
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+- [Sam Altman's blog](http://blog.samaltman.com/)
 
 # Books
 
@@ -38,6 +39,7 @@ Curated list of resources to start and grow your startup
 - [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Notes on Startups, or How to Build the Future
 - [Make - Bootstrapper's Handbook ](https://makebook.io/)
+- [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/)
 
 # Inspiration
 
@@ -97,6 +99,7 @@ Curated list of resources to start and grow your startup
 # Raising Money
 - https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
 - https://www.chagency.co.uk/getstartupfunding/ - A curated library of venture capital investment pitch decks
+- [How to raise money](http://www.paulgraham.com/fr.html)
 
 # Tools
 
@@ -134,10 +137,8 @@ Curated list of resources to start and grow your startup
 - [Pttrns - Collection of app designs](https://pttrns.com/)
 - [easelly - Create infographics](https://www.easel.ly/)
 - [Glaze - Free illustrations](https://www.glazestock.com/)
-
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
-
 - [Invision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
 
