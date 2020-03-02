@@ -40,6 +40,8 @@ Curated list of resources to start and grow your startup
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Notes on Startups, or How to Build the Future
 - [Make - Bootstrapper's Handbook ](https://makebook.io/)
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/)
+- [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.amazon.com.br/Inspired-Create-Tech-Products-Customers/)
+- [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com.br/Hard-Thing-about-Things-Building/)
 
 # Inspiration
 
@@ -79,6 +81,11 @@ Curated list of resources to start and grow your startup
 - [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
 - [Growthhacklist](https://growthhacklist.com/) - Growthhacklist is a global community of makers & creators building an online business.
 
+# Co-founders
+- [Founders and co-founders by startups.com](https://www.startups.com/library/expert-advice/startup-founders-and-cofounders)
+- [How to Find a Co-Founder For Your Startup?](https://www.cloudways.com/blog/how-to-find-a-co-founder-for-startup/)
+- [How to split equity among co-founders](https://blog.ycombinator.com/splitting-equity-among-founders/)
+
 # KPIs and OKRs
 - [Curated List](https://github.com/domenicosolazzo/awesome-okr)
 
@@ -95,9 +102,10 @@ Curated list of resources to start and grow your startup
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [BetaPage](https://betapage.co/)
+- [Product Hunt](http://www.producthunt.com/)
 
 # Raising Money
-- https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
+- [Investopedia article](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 - https://www.chagency.co.uk/getstartupfunding/ - A curated library of venture capital investment pitch decks
 - [How to raise money](http://www.paulgraham.com/fr.html)
 
@@ -137,11 +145,11 @@ Curated list of resources to start and grow your startup
 - [Pttrns - Collection of app designs](https://pttrns.com/)
 - [easelly - Create infographics](https://www.easel.ly/)
 - [Glaze - Free illustrations](https://www.glazestock.com/)
+- [Mobbin](https://mobbin.design)
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
 - [Invision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
-
 
 ## MVP
 - [Unicorn Platform](https://unicornplatform.com/)
@@ -151,6 +159,9 @@ Curated list of resources to start and grow your startup
 
 ## Payments
 - [Stripe](https://stripe.com)
+- [PayPal](https://www.paypal.com/br/home)
+- [Adyen](https://www.adyen.com)
+- [PagarMe](https://pagar.me/)
 
 ## Hosting
 - [Digital Ocean](https://www.digitalocean.com/)
