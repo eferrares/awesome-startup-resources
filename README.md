@@ -55,6 +55,7 @@ Curated list of resources to start and grow your startup
 - [Hacker News](https://news.ycombinator.com/)
 - [Chunch Base](https://www.crunchbase.com/)
 - [SaaS Pages](https://saaspages.xyz) - A collection of the best landing pages with a focus on copywriting and design
+- [SaaS Frame](https://www.saasframe.io/) - Inspiration for SaaS Marketers & Product Designers
 
 ## Startup Decks
 
