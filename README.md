@@ -5,6 +5,7 @@ Curated list of resources to start and grow your startup
 - [Books](#books)
 - [Inspiration](#inspiration)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Customer Discovery](#customerdiscovery)
 - [Customer Validation](#customervalidation)
 - [Customer Creation](#customercreation)
@@ -68,6 +69,24 @@ Curated list of resources to start and grow your startup
 - [Startup School 2018 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5NVnJ_cLWM7dLuMQRDeekoX)
 - [Startup School 2019 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG)
 - [Mind The Product](https://www.youtube.com/channel/UCiT1BmYvOBsEvU9iw0076Sw/videos?)
+
+# Podcasts
+
+- Acquired
+- Produto pelo Mundo
+- Mulheres de Produto
+- Inside Intercom
+- A16z
+- Masters of Scale
+- FYI - For Your Innovation
+- This is Product Management
+- Storicast
+- Retention
+- Product Gurus
+- Product Backstage
+- PM3 Talks
+- Movimento UX
+- Product Led Podcast
 
 # Customer Discovery
 - [The Mon Test](https://www.amazon.com.br/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U)
