@@ -135,6 +135,7 @@ Curated list of resources to start and grow your startup
 - [Investopedia article](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 - https://www.chagency.co.uk/getstartupfunding/ - A curated library of venture capital investment pitch decks
 - [How to raise money](http://www.paulgraham.com/fr.html)
+- [Venture Deals](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
 
 # Tools
 
