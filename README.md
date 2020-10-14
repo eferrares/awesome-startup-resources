@@ -14,7 +14,7 @@ Curated list of resources to start and grow your startup
 - [Incubators / Accelerators](#incubatorsaccelerators)
 - [Online Communities](#onlinecommunities)
 - [Places to post your startup](#placestopostyourstartup)
-- [Raising Money](#raisingmoney)
+- [Raising Money](#raising-money)
 - [Tools](#tools)
   - [Marketing](#marketing)
   - [Analytics](#analytics)
