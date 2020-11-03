@@ -20,6 +20,7 @@ Curated list of resources to start and grow your startup
   - [Analytics](#analytics)
   - [Task & Project Management](#taskprojectmanagement)
   - [Design](#design)
+  - [Tech](#tech)
   - [MVP](#mvp)
   - [Research](#research)
   - [Payments](#payments)
@@ -57,6 +58,12 @@ Curated list of resources to start and grow your startup
 - [Chunch Base](https://www.crunchbase.com/)
 - [SaaS Pages](https://saaspages.xyz) - A collection of the best landing pages with a focus on copywriting and design
 - [SaaS Frame](https://www.saasframe.io/) - Inspiration for SaaS Marketers & Product Designers
+- [Start Story](https://www.starterstory.com/)
+- [Test your startup idea](https://blog.hubstaff.com/test-your-startup-idea/)
+- [How to Find the Right Startup Idea](https://blog.hubstaff.com/test-your-startup-idea/)
+- [The artist and the innovator](https://blog.leanstack.com/the-artist-and-the-innovator-e6b4888c5869)
+- [Don't start with an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
+- [Software Alternatives and Reviews](https://www.saashub.com/)
 
 ## Startup Decks
 
@@ -87,6 +94,10 @@ Curated list of resources to start and grow your startup
 - PM3 Talks
 - Movimento UX
 - Product Led Podcast
+
+# Customer Development resources
+- [A curated list of customer development resources](https://medium.com/@bwenneker/a-curated-list-of-customer-development-resources-40-a967c238729b)
+- [Customer Forces Canvas](https://blog.leanstack.com/the-updated-problem-interview-script-and-a-new-canvas-1e43ff267a5d)
 
 # Customer Discovery
 - [The Mon Test](https://www.amazon.com.br/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U)
@@ -136,6 +147,8 @@ Curated list of resources to start and grow your startup
 - https://www.chagency.co.uk/getstartupfunding/ - A curated library of venture capital investment pitch decks
 - [How to raise money](http://www.paulgraham.com/fr.html)
 - [Venture Deals](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
+- [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
+- [Startup Financing Calculator](https://calculator.ledgy.com)
 
 # Tools
 
@@ -180,9 +193,13 @@ Curated list of resources to start and grow your startup
 - [Invision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
 
+## Tech
+- [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
+
 ## MVP
 - [Unicorn Platform](https://unicornplatform.com/)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+- [Retool](https://retool.com/)
 
 ## Research
 - [Survey Monkey](https://pt.surveymonkey.com/)
