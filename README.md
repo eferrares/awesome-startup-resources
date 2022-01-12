@@ -27,6 +27,8 @@ Curated list of resources to start and grow your startup
   - [Hosting](#hosting)
   - [Naming](#naming)
   - [Domain Names](#domainnames)
+  - [Growth](#growth)
+  - [Hiring](#hiring)
 
 # General
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
@@ -64,6 +66,7 @@ Curated list of resources to start and grow your startup
 - [The artist and the innovator](https://blog.leanstack.com/the-artist-and-the-innovator-e6b4888c5869)
 - [Don't start with an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
 - [Software Alternatives and Reviews](https://www.saashub.com/)
+- [Product checklist](https://www.productchecklist.co/)
 
 ## Startup Decks
 
@@ -230,3 +233,11 @@ Curated list of resources to start and grow your startup
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+
+## Growth
+- [Beginners guide to seo](https://moz.com/beginners-guide-to-seo)
+- [100+ Growth tactics](https://www.thegrowthlist.co/growth-tactics)
+- [Where does growth comes from?](https://www.youtube.com/watch?v=rHdS_4GsKmg&ab_channel=TalksatGoogle)
+
+## Hiring
+- [Founder library about hiring](https://www.founderlibrary.com/categories/hiring)
