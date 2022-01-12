@@ -157,6 +157,7 @@ Curated list of resources to start and grow your startup
 
 ## Marketing
 - [Really Good Emails - Curated list of emails](https://reallygoodemails.com/)
+- [Email copy from great companies](https://www.goodemailcopy.com/)
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
@@ -166,6 +167,7 @@ Curated list of resources to start and grow your startup
 - [Sumo](https://page.sumo.com/gosumo)
 - [Viral Loops - Referrals made easy](https://viral-loops.com/)
 - [Customer.io - Automation](https://customer.io/)
+- [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 
 ## Analytics
 - [Amplitude - Product Analytics for Web and Mobile](https://amplitude.com/)
