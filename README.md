@@ -199,6 +199,7 @@ Curated list of resources to start and grow your startup
 - [Sketch](https://www.sketch.com/)
 
 ## Tech
+- [Argonaut - Automate Cloud Deployments](https://argonaut.dev/?utm_source=eferrares-awesome-startup-rsrc&utm_medium=rsrc) 
 - [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
 
 ## MVP
