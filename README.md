@@ -2,6 +2,7 @@
 Curated list of resources to start and grow your startup
 
 - [General](#general)
+- [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Inspiration](#inspiration)
 - [Videos](#videos)
