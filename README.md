@@ -34,6 +34,11 @@ Curated list of resources to start and grow your startup
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Sam Altman's blog](http://blog.samaltman.com/)
 
+# Learning Resources
+- [Startup Library](https://www.ycombinator.com/library)
+- [Founder Resorces](https://www.founderresources.io/)
+- [Startup Handbook](https://versionone.vc/startup-handbook/)
+
 # Books
 
 - [The Four Steps to the Epiphany - Steve Blank](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
