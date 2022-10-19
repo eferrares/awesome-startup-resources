@@ -2,6 +2,7 @@
 Curated list of resources to start and grow your startup
 
 - [General](#general)
+- [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Inspiration](#inspiration)
 - [Videos](#videos)
@@ -33,6 +34,11 @@ Curated list of resources to start and grow your startup
 # General
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Sam Altman's blog](http://blog.samaltman.com/)
+
+# Learning Resources
+- [Startup Library](https://www.ycombinator.com/library)
+- [Founder Resorces](https://www.founderresources.io/)
+- [Startup Handbook](https://versionone.vc/startup-handbook/)
 
 # Books
 
