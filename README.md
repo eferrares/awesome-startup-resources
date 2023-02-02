@@ -80,6 +80,7 @@ Curated list of resources to start and grow your startup
 - [Cirrus Insight](https://www.cirrusinsight.com/blog/startup-pitch-decks)
 - [Chagency](https://www.chagency.co.uk/getstartupfunding/)
 - [Startup decks](https://startupdecks.co/)
+- [OpenDeck](https://www.openvc.app/opendeck.php)
 
 # Videos
 
@@ -145,6 +146,7 @@ Curated list of resources to start and grow your startup
 - [/r/startups](https://www.reddit.com/r/startups/)
 - [Indie Hackers](https://www.indiehackers.com/)
 - [AngelList](https://angel.co/)
+- [The Hive List - List of Entrepreneurship Communities](https://thehiveindex.com/topics/entrepreneurship/)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
