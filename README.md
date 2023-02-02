@@ -51,6 +51,7 @@ Curated list of resources to start and grow your startup
 - [Make - Bootstrapper's Handbook ](https://makebook.io/)
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/)
 - [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.amazon.com.br/Inspired-Create-Tech-Products-Customers/)
+- [Empowered: Ordinary People, Extraordinary Products - Marty Cagan](https://www.amazon.com/Empowered-Ordinary-People-Extraordinary-Products/dp/B08MV6VRGY/)
 - [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com.br/Hard-Thing-about-Things-Building/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
