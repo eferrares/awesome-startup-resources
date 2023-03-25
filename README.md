@@ -182,6 +182,7 @@ Curated list of resources to start and grow your startup
 - [Amplitude - Product Analytics for Web and Mobile](https://amplitude.com/)
 - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
 - [Google Analytics](https://analytics.google.com/analytics/web/)
+- [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
 
 ## Task & Project Management
 - [Asana](https://asana.com) - Track your team's work & manage projects
