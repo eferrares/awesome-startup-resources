@@ -17,6 +17,7 @@ Curated list of resources to start and grow your startup
 - [Places to post your startup](#placestopostyourstartup)
 - [Raising Money](#raising-money)
 - [Tools](#tools)
+  - [AI](#ai)
   - [Marketing](#marketing)
   - [Analytics](#analytics)
   - [Task & Project Management](#taskprojectmanagement)
@@ -58,6 +59,7 @@ Curated list of resources to start and grow your startup
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 - [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
+- [Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen-ebook/dp/B08HZ5XY7X/)
 
 # Inspiration
 
@@ -74,6 +76,7 @@ Curated list of resources to start and grow your startup
 - [Don't start with an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
 - [Software Alternatives and Reviews](https://www.saashub.com/)
 - [Product checklist](https://www.productchecklist.co/)
+- [r/SaaS](https://www.reddit.com/r/SaaS)
 
 ## Startup Decks
 
@@ -87,6 +90,8 @@ Curated list of resources to start and grow your startup
 - [Startup School 2018 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5NVnJ_cLWM7dLuMQRDeekoX)
 - [Startup School 2019 by Y Combinator](https://www.youtube.com/playlist?list=PLQ-uHSnFig5OMuEYI4rnNz08BIHxhxdHG)
 - [Mind The Product](https://www.youtube.com/channel/UCiT1BmYvOBsEvU9iw0076Sw/videos?)
+- DevTube
+- PMFlix
 
 # Podcasts
 
@@ -144,6 +149,7 @@ Curated list of resources to start and grow your startup
 # Online Communities
 - [/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 - [/r/startups](https://www.reddit.com/r/startups/)
+- [/r/SaaS](https://www.reddit.com/r/SaaS/)
 - [Indie Hackers](https://www.indiehackers.com/)
 - [AngelList](https://angel.co/)
 - [The Hive List - List of Entrepreneurship Communities](https://thehiveindex.com/topics/entrepreneurship/)
@@ -163,6 +169,11 @@ Curated list of resources to start and grow your startup
 - [Startup Financing Calculator](https://calculator.ledgy.com)
 
 # Tools
+
+
+## AI
+- [ChatGPT](https://chatgpt.com/)
+
 
 ## Marketing
 - [Really Good Emails - Curated list of emails](https://reallygoodemails.com/)
@@ -185,6 +196,7 @@ Curated list of resources to start and grow your startup
 - [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
 
 ## Task & Project Management
+- [Todoist](https://todoist.com/)
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
 - [Basecamp](https://basecamp.com/)
@@ -226,6 +238,8 @@ Curated list of resources to start and grow your startup
 - [PagarMe](https://pagar.me/)
 
 ## Hosting
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon AWS](https://aws.amazon.com/)
