@@ -268,3 +268,6 @@ Curated list of resources to start and grow your startup
 ## Hiring
 - [Founder library about hiring](https://www.founderlibrary.com/categories/hiring)
 - [Job Interviews Don't Work](https://fs.blog/2020/07/job-interviews/)
+
+## Job Boards
+- [Hired Jobs](https://www.hired.co.ke)
