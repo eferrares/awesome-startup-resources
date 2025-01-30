@@ -82,7 +82,6 @@ Curated list of resources to start and grow your startup
 
 - [Cirrus Insight](https://www.cirrusinsight.com/blog/startup-pitch-decks)
 - [Chagency](https://www.chagency.co.uk/getstartupfunding/)
-- [Startup decks](https://startupdecks.co/)
 - [OpenDeck](https://www.openvc.app/opendeck.php)
 
 # Videos
