@@ -152,6 +152,7 @@ Curated list of resources to start and grow your startup
 - [Indie Hackers](https://www.indiehackers.com/)
 - [AngelList](https://angel.co/)
 - [The Hive List - List of Entrepreneurship Communities](https://thehiveindex.com/topics/entrepreneurship/)
+- [**Aquin's** Discord Server](https://www.discord.gg/cxzJAyK2jN)
 
 # Places to post your startup
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
@@ -172,7 +173,7 @@ Curated list of resources to start and grow your startup
 
 ## AI
 - [ChatGPT](https://chatgpt.com/)
-
+- [Aquin](https://www.aquin.app/) - Build your own LLMs in just a few minutes with few clicks; simple, fast and cost efficient for free
 
 ## Marketing
 - [Really Good Emails - Curated list of emails](https://reallygoodemails.com/)
