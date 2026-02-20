@@ -226,6 +226,7 @@ Curated list of resources to start and grow your startup
 - [Unicorn Platform](https://unicornplatform.com/)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 - [Retool](https://retool.com/)
+- [Vibe Coding Starter Kit](https://vibecodingstarterkit.io) - AI-powered Next.js boilerplate for non-technical founders to build and ship MVPs in days, not months
 
 ## Research
 - [Survey Monkey](https://pt.surveymonkey.com/)
