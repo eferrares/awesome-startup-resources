@@ -193,6 +193,7 @@ Curated list of resources to start and grow your startup
 - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
+- [PageGuard - Free website health scanner: SEO, accessibility (ADA/WCAG) & Core Web Vitals](https://pageguard.org)
 
 ## Task & Project Management
 - [Todoist](https://todoist.com/)
