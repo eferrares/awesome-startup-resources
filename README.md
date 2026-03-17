@@ -180,6 +180,7 @@ Curated list of resources to start and grow your startup
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [SocialBu](https://socialbu.com) - AI-powered social media management, scheduling, automation, and analytics
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
 - [HubSpot for startups](https://www.hubspot.com/startups)
