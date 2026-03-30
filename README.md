@@ -258,6 +258,7 @@ Curated list of resources to start and grow your startup
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+- [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
 
 ## Growth
 - [Beginners guide to seo](https://moz.com/beginners-guide-to-seo)
