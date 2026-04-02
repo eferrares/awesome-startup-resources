@@ -31,6 +31,7 @@ Curated list of resources to start and grow your startup
   - [Domain Names](#domainnames)
   - [Growth](#growth)
   - [Hiring](#hiring)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 # General
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
