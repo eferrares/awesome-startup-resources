@@ -175,6 +175,8 @@ Curated list of resources to start and grow your startup
 
 
 ## Marketing
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output. `npm i -g signals-sortlist-cli`
 - [Really Good Emails - Curated list of emails](https://reallygoodemails.com/)
 - [Email copy from great companies](https://www.goodemailcopy.com/)
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
