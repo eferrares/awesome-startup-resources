@@ -35,6 +35,7 @@ Curated list of resources to start and grow your startup
 # General
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Sam Altman's blog](http://blog.samaltman.com/)
+- [SaaSOffers](https://saasoffers.tech) - 478+ verified startup deals and SaaS credits.
 
 # Learning Resources
 - [Startup Library](https://www.ycombinator.com/library)
