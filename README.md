@@ -172,6 +172,7 @@ Curated list of resources to start and grow your startup
 
 ## AI
 - [ChatGPT](https://chatgpt.com/)
+- [Not Human Search](https://nothumansearch.ai/) - Agent-first search engine indexing MCP servers, agent-readable APIs, and llms.txt sites. Free REST API and MCP server. Useful when your AI assistant needs to discover tools and integrations. MIT licensed.
 
 
 ## Marketing
@@ -258,6 +259,7 @@ Curated list of resources to start and grow your startup
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+- [8bitconcepts Research](https://8bitconcepts.com/) - Independent weekly research on enterprise AI adoption: agentic accountability, hallucination budgets, governance gaps, integration tax. Free, no sponsors, RSS feed. Useful for founders making build-vs-buy decisions on AI.
 
 ## Growth
 - [Beginners guide to seo](https://moz.com/beginners-guide-to-seo)
@@ -267,3 +269,4 @@ Curated list of resources to start and grow your startup
 ## Hiring
 - [Founder library about hiring](https://www.founderlibrary.com/categories/hiring)
 - [Job Interviews Don't Work](https://fs.blog/2020/07/job-interviews/)
+- [AI Dev Jobs](https://aidevboard.com/) - Job board with 8,400+ AI/ML engineering roles from 489 companies. Free REST API and MCP server for programmatic sourcing. Helpful for startups hiring ML, LLM, and AI engineers.
