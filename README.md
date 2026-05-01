@@ -14,6 +14,7 @@ Curated list of resources to start and grow your startup
 - [KPIs and OKRs](#kpisandokrs)
 - [Incubators / Accelerators](#incubatorsaccelerators)
 - [Online Communities](#onlinecommunities)
+- [Unicorn Embassy](https://unicornembassy.com) – International community for emigrant tech founders, with active chapters in 8 cities (Yerevan, Tbilisi, Belgrade, Dubai, Istanbul, Barcelona, Valencia, Bali). 150+ events: pitch sessions, masterminds, founder dinners. Bilingual EN/RU. Free.
 - [Places to post your startup](#placestopostyourstartup)
 - [Raising Money](#raising-money)
 - [Tools](#tools)
