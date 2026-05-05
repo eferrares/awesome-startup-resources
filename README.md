@@ -186,7 +186,7 @@ Curated list of resources to start and grow your startup
 - [Sumo](https://page.sumo.com/gosumo)
 - [Viral Loops - Referrals made easy](https://viral-loops.com/)
 - [Customer.io - Automation](https://customer.io/)
-- [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
+- [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/) - [The Ultimate Business Bundle](https://businessbundle.gumroad.com/) - A comprehensive collection of business templates and marketing strategies for startups and founders
 
 ## Analytics
 - [Amplitude - Product Analytics for Web and Mobile](https://amplitude.com/)
