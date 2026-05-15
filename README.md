@@ -187,6 +187,7 @@ Curated list of resources to start and grow your startup
 - [Viral Loops - Referrals made easy](https://viral-loops.com/)
 - [Customer.io - Automation](https://customer.io/)
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
+- [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 
 ## Analytics
 - [Amplitude - Product Analytics for Web and Mobile](https://amplitude.com/)
