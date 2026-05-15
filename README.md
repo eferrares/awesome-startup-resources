@@ -175,6 +175,7 @@ Curated list of resources to start and grow your startup
 
 
 ## Marketing
+- [WebCoreLab](https://webcorelab.com) — Free AI SEO audit (272 checks) for early-stage startups. GEO/AEO tracking, CRO, WordPress builds.
 - [Really Good Emails - Curated list of emails](https://reallygoodemails.com/)
 - [Email copy from great companies](https://www.goodemailcopy.com/)
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
