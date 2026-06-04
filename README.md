@@ -248,6 +248,7 @@ Curated list of resources to start and grow your startup.
 - [Claude](https://claude.ai/) — Anthropic's AI assistant, strong in analysis, coding and long documents
 - [Gemini](https://gemini.google.com/) — Google's AI with real-time web access
 - [Perplexity](https://www.perplexity.ai/) — AI-powered search, great alternative to Google for research
+- [BizChecker AI](https://bizchecker.ai) — Purpose-built AI for founders: runs startup ideas through 6 adversarial models, returns GO/NO-GO verdict with kill-signal analysis. $39 one-time.
 - [Cursor](https://www.cursor.com/) — AI-powered code editor for technical founders building MVPs fast
 - [Lovable](https://lovable.dev/) — Generate full web apps from a chat prompt, no code required
 - [Bolt.new](https://bolt.new/) — AI-powered MVP builder in minutes, by StackBlitz
