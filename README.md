@@ -235,6 +235,7 @@ Curated list of resources to start and grow your startup.
 - [Stripe Atlas](https://stripe.com/atlas) — Incorporate a US company (Delaware) fully online
 - [Clerky](https://www.clerky.com/) — Legal documents for startups: incorporation, SAFEs, offer letters
 - [Doola](https://www.doola.com/) — Incorporation + US bank account for international founders
+- [LLC Class](https://llcclass.com/wyoming) — Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — ready to connect Stripe and Mercury
 - [Cooley GO](https://www.cooleygo.com/) — Free legal documents and resources for startups
 - [Vanta](https://www.vanta.com/) — Automate SOC 2, ISO 27001, HIPAA, and GDPR compliance
 - [Drata](https://drata.com/) — Continuous compliance automation with a public Trust Center to close enterprise deals
