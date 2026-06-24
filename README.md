@@ -363,6 +363,10 @@ Curated list of resources to start and grow your startup.
 
 - [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
 
+### Content Management (CMS)
+
+- [UnfoldCMS](https://unfoldcms.com/) — Self-hosted CMS on Laravel 12 + React 19 with one-time pricing. REST API v1 (42 endpoints), webhooks, headless mode for Next.js/Astro/Nuxt. Core is free; Pro is a one-time $99 license. ([GitHub](https://github.com/hpakdaman/unfoldcms), [Demo](https://demo.unfoldcms.com))
+
 ## Finance & Accounting
 
 - [Mercury](https://mercury.com/) — Business banking for startups, preferred by YC companies
