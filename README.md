@@ -277,6 +277,7 @@ Curated list of resources to start and grow your startup.
 - [Buffer](https://buffer.com) — Social media analytics and scheduling
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
+- [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course: 5 lessons on growing on X (Twitter) covering hooks, threads, the open-source algorithm, replies, and your profile funnel
 - [IFTTT](https://ifttt.com/) — Custom triggers to automate social media workflows
 - [HubSpot for Startups](https://www.hubspot.com/startups)
 - [Sumo](https://page.sumo.com/gosumo) — Email capture and traffic growth tools
