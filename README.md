@@ -373,6 +373,7 @@ Curated list of resources to start and grow your startup.
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
+- [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
 
 ## Payments
 
