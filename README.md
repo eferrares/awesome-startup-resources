@@ -318,7 +318,7 @@ Curated list of resources to start and grow your startup.
 - [Freshdesk](https://freshdesk.com/) — Affordable Zendesk alternative
 - [Plain](https://www.plain.com/) — Modern B2B SaaS support via Slack and email
 - [Crisp](https://crisp.chat/) — Free live chat for early-stage startups
-
+- [Knocket](https://trtc.io/solutions/knocket) — Free-forever live chat widget + contact page, unified Telegram/Email inbox, no seat limits
 ## Task & Project Management
 
 - [Todoist](https://todoist.com/)
