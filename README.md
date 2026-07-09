@@ -373,6 +373,7 @@ Curated list of resources to start and grow your startup.
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
+- [Calcrux]([https://calcrux.com/](https://calcrux.com/tools/startup)) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
 
 ## Payments
 
