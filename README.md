@@ -221,6 +221,7 @@ Curated list of resources to start and grow your startup.
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
 - [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — Standard SAFE, term sheets and legal templates
+- [AutoGrantHunter Grant Match](https://autogranthunter.com/grant-match/?ref=awesome-startup-resources-eferrares) — Free tool that matches your startup/nonprofit to open US federal grants (SBIR/STTR & more) by open deadline; no signup
 
 # Equity Management
 
