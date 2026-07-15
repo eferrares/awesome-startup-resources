@@ -408,6 +408,7 @@ Curated list of resources to start and grow your startup.
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+- [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool) — Analyze App Store and Google Play reviews to find recurring competitor pain points and product opportunities.
 
 ## Research
 
