@@ -373,6 +373,7 @@ Curated list of resources to start and grow your startup.
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
+- [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
 
 ## Payments
 
