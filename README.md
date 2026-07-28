@@ -329,6 +329,7 @@ Curated list of resources to start and grow your startup.
 - [Monday](https://monday.com)
 - [Taskade](https://taskade.com)
 - [Linear](https://linear.app/) — Fast issue tracking and roadmap for product teams
+- [REEZN](https://reezn.io/) - Spec-driven development workflow for turning feature ideas into reviewed blueprints, free tier for small teams
 
 ## Communication & Collaboration
 
