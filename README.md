@@ -257,6 +257,7 @@ Curated list of resources to start and grow your startup.
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 
+- [DAUDIT](https://www.daudit.net) - Decision-context engine that audits your thinking across 5 dimensions before committing to irreversible startup decisions.
 ## No-Code / Low-Code
 
 - [Bubble](https://bubble.io/) — Most powerful no-code platform for building web apps and SaaS
