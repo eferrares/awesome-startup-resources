@@ -318,6 +318,7 @@ Curated list of resources to start and grow your startup.
 - [Freshdesk](https://freshdesk.com/) — Affordable Zendesk alternative
 - [Plain](https://www.plain.com/) — Modern B2B SaaS support via Slack and email
 - [Crisp](https://crisp.chat/) — Free live chat for early-stage startups
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses
 
 ## Task & Project Management
 
