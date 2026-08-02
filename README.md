@@ -207,6 +207,7 @@ Curated list of resources to start and grow your startup.
 
 # Places to post your startup
 
+- [AiToolsObserver](https://aitoolsobserver.com/) — AI discovery platform that accepts free AI tool submissions and publishes comparisons, trends and practical use cases
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
