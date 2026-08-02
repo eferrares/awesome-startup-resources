@@ -257,6 +257,7 @@ Curated list of resources to start and grow your startup.
 - [Bolt.new](https://bolt.new/) — AI-powered MVP builder in minutes, by StackBlitz
 - [v0 by Vercel](https://v0.dev/) — Generate frontend UI components with AI
 - [Midjourney](https://www.midjourney.com/) — AI image generation for design and marketing assets
+- [Rao Edits](https://raoedits.top/) — AI image generation and photo editing for startup design, marketing visuals and creative projects
 - [Gamma](https://gamma.app/) — Create presentations and pitch decks via AI prompts
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
