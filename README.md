@@ -283,6 +283,8 @@ Curated list of resources to start and grow your startup.
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
 - [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders researching niches, competitors, revenue estimates, keywords, ads, and reviews.
+- [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course: 5 lessons on growing on X (Twitter) covering hooks, threads, the open-source algorithm, replies, and your profile funnel
+- [WebCoreLab](https://webcorelab.com) — Free AI SEO audit (272 checks) for early-stage startups. GEO/AEO tracking, CRO, WordPress builds.
 - [IFTTT](https://ifttt.com/) — Custom triggers to automate social media workflows
 - [HubSpot for Startups](https://www.hubspot.com/startups)
 - [Sumo](https://page.sumo.com/gosumo) — Email capture and traffic growth tools
@@ -384,6 +386,8 @@ Curated list of resources to start and grow your startup.
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
+- [Calcrux](https://calcrux.com) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
+- [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
 - [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
 
 ## Payments
@@ -421,6 +425,7 @@ Curated list of resources to start and grow your startup.
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
 - [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
+- [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
 
 ## Research
 
