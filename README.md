@@ -435,6 +435,7 @@ Curated list of resources to start and grow your startup.
 
 ## SEO & Growth
 
+- [Where Should I Launch?](https://mydentify.com/tools/startup-directory-finder) — Research-backed directory shortlist for founders choosing launch and product-discovery sites
 - [Beginner's Guide to SEO — Moz](https://moz.com/beginners-guide-to-seo)
 - [100+ Growth Tactics](https://www.thegrowthlist.co/growth-tactics)
 - [Ahrefs](https://ahrefs.com/) — Backlink analysis, keyword research, and site auditing
