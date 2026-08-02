@@ -280,6 +280,7 @@ Curated list of resources to start and grow your startup.
 - [Really Good Emails](https://reallygoodemails.com/) — Curated list of great marketing emails
 - [Good Email Copy](https://www.goodemailcopy.com/) — Email copy from great companies
 - [Buffer](https://buffer.com) — Social media analytics and scheduling
+- [SocialBu](https://socialbu.com) — AI-powered social media management, scheduling, automation, and analytics
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
 - [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders researching niches, competitors, revenue estimates, keywords, ads, and reviews.
