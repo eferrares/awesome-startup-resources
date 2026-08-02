@@ -412,6 +412,7 @@ Curated list of resources to start and grow your startup.
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+- [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
 
 ## Research
 
