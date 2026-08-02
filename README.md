@@ -217,6 +217,7 @@ Curated list of resources to start and grow your startup.
 - [How to raise money — Paul Graham](http://www.paulgraham.com/fr.html)
 - [Investopedia — Series A, B, C Funding explained](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 - [A curated library of VC pitch decks](https://www.chagency.co.uk/getstartupfunding/)
+- [DDScore Mid-Cycle Narrative Drift Check](https://mheilimo.github.io/mid-cycle-narrative-drift-check/) — Free browser-only worksheet for founders between rounds to compare business changes with next-round evidence needs across 12 dimensions; no account or upload required
 - [Venture Deals by Brad Feld](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
