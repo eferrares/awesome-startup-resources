@@ -289,6 +289,7 @@ Curated list of resources to start and grow your startup.
 - [Customer.io](https://customer.io/) — Behavioral email and messaging automation
 - [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
+- [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 
 ## Email Marketing
 
