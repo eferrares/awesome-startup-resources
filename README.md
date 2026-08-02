@@ -282,6 +282,7 @@ Curated list of resources to start and grow your startup.
 - [Sumo](https://page.sumo.com/gosumo) — Email capture and traffic growth tools
 - [Viral Loops](https://viral-loops.com/) — Referral programs made easy
 - [Customer.io](https://customer.io/) — Behavioral email and messaging automation
+- [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 
 ## Email Marketing
