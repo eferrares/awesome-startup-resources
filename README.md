@@ -262,6 +262,7 @@ Curated list of resources to start and grow your startup.
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
 
+- [DAUDIT](https://www.daudit.net) - Decision-context engine that audits your thinking across 5 dimensions before committing to irreversible startup decisions.
 ## No-Code / Low-Code
 
 - [Bubble](https://bubble.io/) — Most powerful no-code platform for building web apps and SaaS
