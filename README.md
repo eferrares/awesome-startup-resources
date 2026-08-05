@@ -362,6 +362,7 @@ Curated list of resources to start and grow your startup.
 - [Figma](https://www.figma.com/) — Collaborative UI/UX design tool, industry standard
 - [Canva](https://www.canva.com/) — Fast graphic design for non-designers
 - [Undesign](https://undesign.learn.uno/) — Collection of free design tools and resources for makers
+- [TinyTools](https://tinytools-smoky.vercel.app/) — Free browser-based design and dev utilities: color palette generator, OG image generator, favicon generator, AI background remover (runs locally), SEO meta tag generator, domain name generator, AI robots.txt generator. No signup, open source.
 - [UX Archive](http://uxarchive.com/) — The iPhone app archive
 - [Mobbin](https://mobbin.design) — Real mobile and web app design inspiration
 - [Glaze](https://www.glazestock.com/) — Free illustrations
