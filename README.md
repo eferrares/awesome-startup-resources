@@ -293,6 +293,7 @@ Curated list of resources to start and grow your startup.
 - [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 - [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
+- [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your voice, clips long video, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
 
 ## Email Marketing
 
