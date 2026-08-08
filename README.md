@@ -426,7 +426,7 @@ Curated list of resources to start and grow your startup.
 - [Compass](https://www.compass.co/)
 - [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
 - [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
-- [Gumroad Market Data](https://sujeito-operator.github.io/gumroad-market-data/) — Free CSVs covering 8,325 Gumroad digital products from 4,545 sellers across 261 categories: asking price, rating count, and publisher-disclosed unit sales for 202 listings. For sizing demand and pricing before you build. CC BY 4.0, Zenodo DOI.
+- [Gumroad Market Data](https://sujeito-operator.github.io/gumroad-market-data/) — Free CSVs covering 8,325 Gumroad digital products from 4,545 sellers across 261 categories: asking price, rating count, and publisher-disclosed unit sales for 316 listings. For sizing demand and pricing before you build. CC BY 4.0, Zenodo DOI.
 
 ## Research
 
