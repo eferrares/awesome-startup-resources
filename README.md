@@ -461,7 +461,9 @@ Curated list of resources to start and grow your startup.
 - [Google Domains](https://domains.google/) — Simple registration integrated with Google Workspace
 - [Instant Domain Search](https://instantdomainsearch.com/) — Real-time domain availability check as you type
 
-## Hiring
+- [DomainScout](https://domainscout.dev/) — Free real-time domain availability search across 46+ TLDs.
+-
+- ## Hiring
 
 - [Founder library about hiring](https://www.founderlibrary.com/categories/hiring)
 - [Job Interviews Don't Work — Farnam Street](https://fs.blog/2020/07/job-interviews/)
