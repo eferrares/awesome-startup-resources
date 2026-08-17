@@ -169,7 +169,6 @@ Curated list of resources to start and grow your startup.
 
 - [Product-Led Growth Collective](https://productled.com/) — Community and resources on PLG strategy
 - [OpenView Partners Blog](https://openviewpartners.com/blog/) — Reference on PLG for B2B SaaS
-- [Product-Led Growth by Wes Bush](https://productled.com/book) — The foundational book on PLG
 
 # Company Building
 
@@ -293,6 +292,7 @@ Curated list of resources to start and grow your startup.
 - [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 - [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Email Marketing
 
