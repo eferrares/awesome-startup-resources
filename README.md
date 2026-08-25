@@ -426,6 +426,7 @@ Curated list of resources to start and grow your startup.
 - [Compass](https://www.compass.co/)
 - [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
 - [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
+- [VentureDex](https://venturedex.co/research) — Free, source-backed startup research index with methodology, funding-stage breakdowns, investor records, and machine-readable data.
 
 ## Research
 
