@@ -57,6 +57,7 @@ Curated list of resources to start and grow your startup.
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Sam Altman's blog](http://blog.samaltman.com/)
 - [SaaSOffers](https://saasoffers.tech) - 478+ verified startup deals and SaaS credits.
+- [StartupPerks](https://startupperks.co) - Free tool that ranks the startup credits, perks, and deals you actually qualify for across 600+ tracked programs.
 
 # Learning Resources
 
