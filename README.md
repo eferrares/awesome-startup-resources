@@ -355,6 +355,7 @@ Curated list of resources to start and grow your startup.
 - [Zapier](https://zapier.com/) — Connect apps and automate workflows without code
 - [Make](https://www.make.com/) — More powerful visual automation, great for complex flows
 - [n8n](https://n8n.io/) — Open-source, self-hostable workflow automation
+- [Agent QA](https://github.com/vostride/agent-qa) — Natural-language web and mobile regression testing through CLI or MCP, with execution memory and UI-change adaptation
 - [Activepieces](https://www.activepieces.com/) — Open-source Zapier alternative
 
 ## Design
