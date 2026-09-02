@@ -205,6 +205,7 @@ Curated list of resources to start and grow your startup.
 - [Indie Hackers](https://www.indiehackers.com/)
 - [AngelList](https://angel.co/)
 - [The Hive Index — Entrepreneurship Communities](https://thehiveindex.com/topics/entrepreneurship/)
+- [SoCal Startups](https://socalstartups.io) — Directory of real, verified startups, investors, and accelerators in Southern California
 
 # Places to post your startup
 
