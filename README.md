@@ -89,6 +89,7 @@ Curated list of resources to start and grow your startup.
 
 # Newsletters
 
+- [AI Weekly](https://aiweekly.co/) — Ranked signals on AI models, companies, funding, policy, and research, free three times a week
 - [TLDR](https://tldr.tech/) — Daily 5-min digest of tech, science and coding, 8M+ readers
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/) — Product and growth deep-dives, 1M+ subscribers
 - [Founder Weekly](https://www.founderweekly.com/) — Weekly curated resources for founders
