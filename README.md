@@ -213,6 +213,7 @@ Curated list of resources to start and grow your startup.
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
 - [BetaList](https://betalist.com) — Discover and get early access to tomorrow's startup
+- [Nick Launches](https://nicklaunches.com/) — Launch directory for makers: submit a product, get listed in a browsable catalogue, and earn a dofollow backlink
 
 # Raising Money
 
