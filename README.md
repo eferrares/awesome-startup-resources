@@ -389,6 +389,7 @@ Curated list of resources to start and grow your startup.
 - [Calcrux](https://calcrux.com) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
 - [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
 - [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
+- [Payney Tools](https://payney.com/tools/) — Free browser calculators for mortgages, savings, retirement and debt payoff, no sign-up
 
 ## Payments
 
@@ -396,6 +397,7 @@ Curated list of resources to start and grow your startup.
 - [PayPal](https://www.paypal.com/br/home)
 - [Adyen](https://www.adyen.com) — Enterprise-grade global payments
 - [PagarMe](https://pagar.me/) — Payments for the Brazilian market
+- [Payney: US online card fees](https://payney.com/reports/online-card-fees-us-2026-09/) — Dated comparison of what Stripe, PayPal, Square, Shopify Payments, Paddle and Lemon Squeezy charge on a $10 to $500 sale, CSV and JSON under CC BY 4.0
 
 ## Hosting
 
