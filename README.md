@@ -196,6 +196,7 @@ Curated list of resources to start and grow your startup.
 - [a16z START](https://a16z.com/start/) — Early-stage program by Andreessen Horowitz
 - [Endeavor](https://endeavor.org/) — Scale-up support network, strong in Brazil and emerging markets
 - [Distrito](https://distrito.me/) — Brazilian innovation hub and accelerator
+- [accelerator.directory](https://accelerator.directory/) — Index of 1,093 accelerator programmes in 104 countries; cheque size, equity and duration sourced to each programme's own page, with a free JSON API
 
 # Online Communities
 
