@@ -452,6 +452,7 @@ Curated list of resources to start and grow your startup.
 - [Namechk](https://namechk.com/) — Check name availability across domains and social media
 - [BrandBucket](https://www.brandbucket.com/)
 - [Squadhelp](https://www.squadhelp.com/)
+- [NameSale](https://namesale.store/) — Brandable domain names at a fixed one-time price, first year of registration included
 
 ## Domain Names
 
