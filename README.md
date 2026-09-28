@@ -320,6 +320,7 @@ Curated list of resources to start and grow your startup.
 - [Zoho CRM](https://www.zoho.com/crm/) — Affordable and deeply customizable CRM
 - [Apollo.io](https://www.apollo.io/) — Outbound prospecting with a database of 275M+ contacts
 - [Clay](https://www.clay.com/) — Data enrichment and AI-powered outbound automation
+- [CRMlead](https://crmlead.io/) — Lead-focused CRM for small teams: drag-and-drop pipeline, daily next actions, emails attached to leads; free up to 50 leads
 
 ## Customer Support
 
