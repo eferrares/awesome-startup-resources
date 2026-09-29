@@ -261,6 +261,7 @@ Curated list of resources to start and grow your startup.
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
+- [Claude Imagine](https://claudeimagine.com/) — AI image and video generation (Nano Banana 2, GPT Image 2.5, Seedream 4.5, Flux 2 Pro, Veo 3.1 Fast) on the web or inside Claude through an MCP connector
 
 ## No-Code / Low-Code
 
