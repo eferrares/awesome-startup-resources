@@ -224,6 +224,7 @@ Curated list of resources to start and grow your startup.
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
 - [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — Standard SAFE, term sheets and legal templates
+- [Web3 Grant Application Template](https://github.com/zkprimecapital/web3-grant-application-template) — One-page grant application template for web3 founders, with the reasons committees most often reject applications (CC0)
 
 # Equity Management
 
