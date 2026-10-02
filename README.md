@@ -443,6 +443,7 @@ Curated list of resources to start and grow your startup.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) — Technical SEO site auditor
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) — Accessible keyword research tool
 - [AnswerLens](https://app.sfdj.net/) — Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, schema, and llms.txt gaps
+- [LogNorm](https://lognorm.com) — Ranks a site's SEO and AI-visibility (GEO) backlog and hands it to AI agents (Claude Code, Codex, Cursor) over MCP. Free plan available
 
 ## Naming
 
