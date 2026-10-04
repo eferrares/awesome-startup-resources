@@ -320,6 +320,7 @@ Curated list of resources to start and grow your startup.
 - [Zoho CRM](https://www.zoho.com/crm/) — Affordable and deeply customizable CRM
 - [Apollo.io](https://www.apollo.io/) — Outbound prospecting with a database of 275M+ contacts
 - [Clay](https://www.clay.com/) — Data enrichment and AI-powered outbound automation
+- [Connections](https://connections.icu/personal-crm) - Free contact book and follow-up CRM with uncapped contacts and no card, plus a digital business card people save in one tap
 
 ## Customer Support
 
