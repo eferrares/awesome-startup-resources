@@ -224,6 +224,7 @@ Curated list of resources to start and grow your startup.
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
 - [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — Standard SAFE, term sheets and legal templates
+- [VCBacked](https://www.vcbacked.co/startup-database) — Free-to-browse database of 41,000+ VC-backed startups with funding rounds and lead investors
 
 # Equity Management
 
