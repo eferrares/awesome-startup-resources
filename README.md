@@ -370,6 +370,7 @@ Curated list of resources to start and grow your startup.
 - [QuickBooks Online](https://quickbooks.intuit.com/) — Most widely used accounting software for startups
 - [Xero](https://www.xero.com/) — Cloud-based bookkeeping, popular outside the US
 - [Wave](https://www.waveapps.com/) — Free accounting for pre-revenue and early-stage startups
+- [SmartBizCalc](https://smartbizcalc.com/) — Free business calculators for tax, pricing, payroll, and financial planning — built for startup founders
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
