@@ -213,6 +213,7 @@ Curated list of resources to start and grow your startup.
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
 - [BetaList](https://betalist.com) — Discover and get early access to tomorrow's startup
+- [FalcoScan](https://falcoscan.com/submit) — Free listing for AI products: a profile page in its market among 7,000+ AI products, and the maker's private rank by email
 
 # Raising Money
 
