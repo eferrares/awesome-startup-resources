@@ -293,6 +293,7 @@ Curated list of resources to start and grow your startup.
 - [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 - [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
+- [FirstPass Hero Brief Builder](https://mmxfq.github.io/firstpass-site/hero-brief.html) — Free, no-signup browser tool that turns six product and customer-evidence inputs into a copy-ready SaaS homepage hero brief. Data stays in the browser.
 
 ## Email Marketing
 
