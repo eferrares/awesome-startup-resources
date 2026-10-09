@@ -320,6 +320,7 @@ Curated list of resources to start and grow your startup.
 - [Zoho CRM](https://www.zoho.com/crm/) — Affordable and deeply customizable CRM
 - [Apollo.io](https://www.apollo.io/) — Outbound prospecting with a database of 275M+ contacts
 - [Clay](https://www.clay.com/) — Data enrichment and AI-powered outbound automation
+- [Drevon](https://www.drevon.dev) — Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins
 
 ## Customer Support
 
