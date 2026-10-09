@@ -415,6 +415,7 @@ Curated list of resources to start and grow your startup.
 - [Deel](https://www.deel.com/) — Hire and pay global and remote teams compliantly
 - [Remote](https://remote.com/) — Employer of Record for international hiring
 - [Workable](https://www.workable.com/) — Applicant tracking system for recruiting
+- [Flash Interview](https://flashinterview.com/) — Async video screening: candidates answer one question on video, hiring teams review a whole shortlist in minutes
 
 ## Market Research
 
