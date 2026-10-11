@@ -452,7 +452,8 @@ Curated list of resources to start and grow your startup.
 - [Namechk](https://namechk.com/) — Check name availability across domains and social media
 - [BrandBucket](https://www.brandbucket.com/)
 - [Squadhelp](https://www.squadhelp.com/)
-
+- [Webba Name Checker](https://webba.com/name-checker) - Free tool that reads a business name the way a customer would: length, syllables, sound, and whether people can spell it after hearing it once. No sign-up.
+  
 ## Domain Names
 
 - [Namecheap](https://www.namecheap.com/) — Affordable domain registration with free WhoisGuard
