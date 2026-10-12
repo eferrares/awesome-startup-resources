@@ -375,6 +375,7 @@ Curated list of resources to start and grow your startup.
 
 - [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
 - [Kostra](https://kostra.io) – Next.js SaaS boilerplate with authentication, Stripe billing, and credit-based usage billing, so technical founders skip months of setup
+- [SolidPing](https://www.solidping.io) – Open-source uptime and synthetic monitoring with status pages and alerting; free hosted tier or self-hosted as a single Go binary
 
 ## Finance & Accounting
 
