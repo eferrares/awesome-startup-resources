@@ -238,6 +238,7 @@ Curated list of resources to start and grow your startup.
 - [Stripe Atlas](https://stripe.com/atlas) — Incorporate a US company (Delaware) fully online
 - [Clerky](https://www.clerky.com/) — Legal documents for startups: incorporation, SAFEs, offer letters
 - [Doola](https://www.doola.com/) — Incorporation + US bank account for international founders
+- [BaseAcross](https://baseacross.com) — Wyoming or Delaware company formation, EIN without an SSN and a US compliance calendar for founders outside the US
 - [Cooley GO](https://www.cooleygo.com/) — Free legal documents and resources for startups
 - [Vanta](https://www.vanta.com/) — Automate SOC 2, ISO 27001, HIPAA, and GDPR compliance
 - [Drata](https://drata.com/) — Continuous compliance automation with a public Trust Center to close enterprise deals
