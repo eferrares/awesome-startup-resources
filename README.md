@@ -443,6 +443,7 @@ Curated list of resources to start and grow your startup.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) — Technical SEO site auditor
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) — Accessible keyword research tool
 - [AnswerLens](https://app.sfdj.net/) — Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, schema, and llms.txt gaps
+- [BacklinkGenie](https://backlinkgenie.com/) — AI link-building outreach: finds "best X" posts where your product fits, pitches each editor from a separate mailbox, and monitors won links
 
 ## Naming
 
