@@ -407,6 +407,7 @@ Curated list of resources to start and grow your startup.
 - [Vercel](https://vercel.com/) — Fast deployments for frontend and full-stack apps
 - [Render](https://render.com/) — Modern Heroku alternative with generous free tier
 - [Fly.io](https://fly.io/) — Deploy apps globally close to users
+- [VPS Host Review](https://vpshostreview.com/) — Independent VPS hosting reviews from customers, with benchmark comparisons for choosing a host
 
 ## HR & People
 
