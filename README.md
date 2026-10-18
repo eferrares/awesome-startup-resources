@@ -467,6 +467,7 @@ Curated list of resources to start and grow your startup.
 - [Job Interviews Don't Work — Farnam Street](https://fs.blog/2020/07/job-interviews/)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Largest professional network for B2B and tech hiring
 - [AngelList Talent](https://angel.co/jobs) — Job board focused on startup roles
+- [DMtheFounder](https://dmthefounder.com/) — Free job board of early engineering roles posted by founders on X and Hacker News
 
 ---
 
