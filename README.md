@@ -261,6 +261,7 @@ Curated list of resources to start and grow your startup.
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
+- [Tactyl](https://tactyl.co/?ref=github) — AI guide that scores a business idea live as you talk it through, maps it on an idea canvas, and unlocks an app builder at 30%. Free plan, no card
 
 ## No-Code / Low-Code
 
