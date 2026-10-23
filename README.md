@@ -283,6 +283,7 @@ Curated list of resources to start and grow your startup.
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
 - [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders researching niches, competitors, revenue estimates, keywords, ads, and reviews.
+- [App Store Localizer](https://asolocalization.com) — App Store listing translator for indie iOS devs: localized screenshots plus metadata (title, subtitle, description, keywords) for global storefronts, one-time price.
 - [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course: 5 lessons on growing on X (Twitter) covering hooks, threads, the open-source algorithm, replies, and your profile funnel
 - [WebCoreLab](https://webcorelab.com) — Free AI SEO audit (272 checks) for early-stage startups. GEO/AEO tracking, CRO, WordPress builds.
 - [IFTTT](https://ifttt.com/) — Custom triggers to automate social media workflows
