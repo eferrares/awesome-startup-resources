@@ -213,6 +213,7 @@ Curated list of resources to start and grow your startup.
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
 - [BetaList](https://betalist.com) — Discover and get early access to tomorrow's startup
+- [RadarMakers](https://radarmakers.com) — Free launch platform and directory for indie makers, where every submission is reviewed by a person and launches are ranked by votes, ratings and helpful comments
 
 # Raising Money
 
