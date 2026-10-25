@@ -112,6 +112,7 @@ Curated list of resources to start and grow your startup.
 - [Software Alternatives and Reviews](https://www.saashub.com/)
 - [Product checklist](https://www.productchecklist.co/)
 - [r/SaaS](https://www.reddit.com/r/SaaS)
+- [Shipped & Paid](https://shippedandpaid.com) — Directory of apps built with AI coding tools that report revenue, with a proof label on every figure and a free revenue calculator
 
 ## Startup Decks
 
