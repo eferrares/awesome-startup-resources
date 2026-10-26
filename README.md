@@ -112,6 +112,7 @@ Curated list of resources to start and grow your startup.
 - [Software Alternatives and Reviews](https://www.saashub.com/)
 - [Product checklist](https://www.productchecklist.co/)
 - [r/SaaS](https://www.reddit.com/r/SaaS)
+- [PainPoint Daily](https://painpointdaily.com) — Business opportunities for real problems people post on Reddit, new every day.
 
 ## Startup Decks
 
