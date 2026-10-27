@@ -407,6 +407,7 @@ Curated list of resources to start and grow your startup.
 - [Vercel](https://vercel.com/) — Fast deployments for frontend and full-stack apps
 - [Render](https://render.com/) — Modern Heroku alternative with generous free tier
 - [Fly.io](https://fly.io/) — Deploy apps globally close to users
+- [Light Cloud](https://light-cloud.com/) — Deploy static sites, containers and APIs from Git, with a free plan and no card required
 
 ## HR & People
 
