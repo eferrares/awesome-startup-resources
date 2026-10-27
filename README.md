@@ -375,6 +375,7 @@ Curated list of resources to start and grow your startup.
 
 - [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
 - [Kostra](https://kostra.io) – Next.js SaaS boilerplate with authentication, Stripe billing, and credit-based usage billing, so technical founders skip months of setup
+- [StackScan](https://www.stackscan.com) - See the tech stack of any website, or find every company running a given tool, to research competitors and build lead lists
 
 ## Finance & Accounting
 
