@@ -300,6 +300,7 @@ Curated list of resources to start and grow your startup.
 - [Beehiiv](https://www.beehiiv.com/) — Modern newsletter platform with monetization built-in
 - [ConvertKit (Kit)](https://kit.com/) — Email marketing for creators and indie founders
 - [Mailerlite](https://www.mailerlite.com/) — Simple, affordable email marketing with generous free plan
+- [Kicklace](https://kicklace.com/) — Lifecycle email for SaaS, written from your website. Free up to 1,000 contacts
 - [Resend](https://resend.com/) — Transactional email for developers
 - [SendGrid](https://sendgrid.com/) — Transactional email at scale
 
