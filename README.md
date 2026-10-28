@@ -268,6 +268,7 @@ Curated list of resources to start and grow your startup.
 - [Webflow](https://webflow.com/) — Professional marketing sites and landing pages with visual design
 - [Lovable](https://lovable.dev/) — Full web applications generated via AI chat
 - [Bolt.new](https://bolt.new/) — AI-powered app builder for rapid MVP creation
+- [AppWizzy](https://appwizzy.com/) — AI app builder for MVPs and business web apps, with a dedicated development VM and Git integration
 - [Glide](https://www.glideapps.com/) — Mobile apps built from Google Sheets
 - [Softr](https://www.softr.io/) — Portals and internal tools built on top of Airtable
 - [Airtable](https://airtable.com/) — Visual database with automation, widely used for ops and lightweight CRMs
