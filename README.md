@@ -213,6 +213,7 @@ Curated list of resources to start and grow your startup.
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
 - [BetaList](https://betalist.com) — Discover and get early access to tomorrow's startup
+- [CodeTrendy](https://codetrendy.com/) — Directory where builders list and discover new startups, dev tools and online products
 
 # Raising Money
 
