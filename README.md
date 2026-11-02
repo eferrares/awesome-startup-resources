@@ -320,6 +320,7 @@ Curated list of resources to start and grow your startup.
 - [Zoho CRM](https://www.zoho.com/crm/) — Affordable and deeply customizable CRM
 - [Apollo.io](https://www.apollo.io/) — Outbound prospecting with a database of 275M+ contacts
 - [Clay](https://www.clay.com/) — Data enrichment and AI-powered outbound automation
+- [MentionFox Funded This Week](https://mentionfox.com/funding/week) — Free weekly list of US startups that just raised, from new SEC Form D filings
 
 ## Customer Support
 
