@@ -389,6 +389,7 @@ Curated list of resources to start and grow your startup.
 - [Calcrux](https://calcrux.com) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
 - [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
 - [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
+- [Aeneia Audit licence cost calculator](https://audit.aeneia.pl/en) - Free browser calculator for estimating annual unused software licence costs in PLN. Discounts, notice periods and migration costs are excluded; the site also offers paid audit services.
 
 ## Payments
 
