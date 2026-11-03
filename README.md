@@ -451,6 +451,7 @@ Curated list of resources to start and grow your startup.
 - [Naminum](http://www.naminum.com)
 - [Namechk](https://namechk.com/) — Check name availability across domains and social media
 - [BrandBucket](https://www.brandbucket.com/)
+- [PendingDelete.net](https://pendingdelete.net/) — Free daily lists of expiring domains with registry-confirmed drop times, for finding an aged name with history before it drops
 - [Squadhelp](https://www.squadhelp.com/)
 
 ## Domain Names
