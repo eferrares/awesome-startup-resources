@@ -242,6 +242,7 @@ Curated list of resources to start and grow your startup.
 - [Vanta](https://www.vanta.com/) — Automate SOC 2, ISO 27001, HIPAA, and GDPR compliance
 - [Drata](https://drata.com/) — Continuous compliance automation with a public Trust Center to close enterprise deals
 - [Secureframe](https://secureframe.com/) — SOC 2 and HIPAA compliance automation for startups
+- [Attestlane](https://attestlane.to) — SOC 2 readiness for 1–50 person B2B software teams: free assessment, AI-drafted policies for the team to review, a 39-item evidence checklist and an auditor-ready package
 
 # Tools
 
