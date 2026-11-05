@@ -302,6 +302,7 @@ Curated list of resources to start and grow your startup.
 - [Mailerlite](https://www.mailerlite.com/) — Simple, affordable email marketing with generous free plan
 - [Resend](https://resend.com/) — Transactional email for developers
 - [SendGrid](https://sendgrid.com/) — Transactional email at scale
+- [MailVeri](https://mailveri.com/) - Bulk and real-time email verification to keep lists clean before you send; credits never expire.
 
 ## Analytics
 
