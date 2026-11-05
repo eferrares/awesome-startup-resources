@@ -304,7 +304,6 @@ Curated list of resources to start and grow your startup.
 - [SendGrid](https://sendgrid.com/) — Transactional email at scale
 - [MailVeri](https://mailveri.com/) - Bulk and real-time email verification to keep lists clean before you send; credits never expire.
 
-
 ## Analytics
 
 - [Amplitude](https://amplitude.com/) — Product analytics for web and mobile
