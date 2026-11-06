@@ -249,6 +249,7 @@ Curated list of resources to start and grow your startup.
 
 - [ChatGPT](https://chatgpt.com/) — OpenAI's general-purpose AI assistant for brainstorming, writing and research
 - [Claude](https://claude.ai/) — Anthropic's AI assistant, strong in analysis, coding and long documents
+- [Code By AI](https://www.codebyai.net) — One API key for Claude, Codex and Gemini coding agents; pay per token from 1/6 of official price across 21 models, no subscription
 - [Gemini](https://gemini.google.com/) — Google's AI with real-time web access
 - [Perplexity](https://www.perplexity.ai/) — AI-powered search, great alternative to Google for research
 - [BizChecker AI](https://bizchecker.ai) — Purpose-built AI for founders: runs startup ideas through 6 adversarial models, returns GO/NO-GO verdict with kill-signal analysis. $39 one-time.
