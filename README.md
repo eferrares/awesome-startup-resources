@@ -278,6 +278,7 @@ Curated list of resources to start and grow your startup.
 ## Marketing
 
 - [Really Good Emails](https://reallygoodemails.com/) — Curated list of great marketing emails
+- [They Sent It](https://theysentit.com/) — Free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform, with how often each brand sends
 - [Good Email Copy](https://www.goodemailcopy.com/) — Email copy from great companies
 - [Buffer](https://buffer.com) — Social media analytics and scheduling
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
