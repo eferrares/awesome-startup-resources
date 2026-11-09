@@ -282,6 +282,7 @@ Curated list of resources to start and grow your startup.
 - [Buffer](https://buffer.com) — Social media analytics and scheduling
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
+- [SnapDataHub](https://snapdatahub.com/) — Snapchat profile analytics, Spotlight performance and engagement data, with a free earnings calculator
 - [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders researching niches, competitors, revenue estimates, keywords, ads, and reviews.
 - [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course: 5 lessons on growing on X (Twitter) covering hooks, threads, the open-source algorithm, replies, and your profile funnel
 - [WebCoreLab](https://webcorelab.com) — Free AI SEO audit (272 checks) for early-stage startups. GEO/AEO tracking, CRO, WordPress builds.
