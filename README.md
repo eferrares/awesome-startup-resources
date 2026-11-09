@@ -426,6 +426,7 @@ Curated list of resources to start and grow your startup.
 - [Compass](https://www.compass.co/)
 - [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
 - [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
+- [EarlyLore](https://earlylore.com/) — Validate product ideas against real competitors, demand, pricing, acquisition channels, and entry angles before building.
 
 ## Research
 
