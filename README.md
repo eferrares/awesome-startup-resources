@@ -293,6 +293,7 @@ Curated list of resources to start and grow your startup.
 - [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
 - [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
+- [Solo Ad Lab](https://soloadlab.com/) - Free step-by-step written playbooks for making ads and social content with AI, each crediting the creator who shared the workflow.
 
 ## Email Marketing
 
