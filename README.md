@@ -194,6 +194,7 @@ Curated list of resources to start and grow your startup.
 - [Techstars](https://www.techstars.com/) — Global accelerator network in 150+ cities
 - [Sequoia Arc](https://www.sequoiacap.com/arc/) — Early-stage founder program by Sequoia
 - [a16z START](https://a16z.com/start/) — Early-stage program by Andreessen Horowitz
+- [Creditable Builder Program](https://creditable.vc/apply) — Open founder support with a funded $200/month AI plan, potential provider-dependent credits, a free course, and a private network. The program proposes a 7% equity partnership under a separate agreement.
 - [Endeavor](https://endeavor.org/) — Scale-up support network, strong in Brazil and emerging markets
 - [Distrito](https://distrito.me/) — Brazilian innovation hub and accelerator
 
