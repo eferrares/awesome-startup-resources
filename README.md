@@ -460,6 +460,7 @@ Curated list of resources to start and grow your startup.
 - [GoDaddy](https://www.godaddy.com/) — Largest domain registrar in the world
 - [Google Domains](https://domains.google/) — Simple registration integrated with Google Workspace
 - [Instant Domain Search](https://instantdomainsearch.com/) — Real-time domain availability check as you type
+- [Vacant Domains](https://vacant.domains/) — Searchable database of unregistered real-word domain names across 51 TLDs, with free registrar price comparison (database is paid)
 
 ## Hiring
 
