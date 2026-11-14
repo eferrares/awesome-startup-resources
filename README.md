@@ -320,6 +320,7 @@ Curated list of resources to start and grow your startup.
 - [Zoho CRM](https://www.zoho.com/crm/) — Affordable and deeply customizable CRM
 - [Apollo.io](https://www.apollo.io/) — Outbound prospecting with a database of 275M+ contacts
 - [Clay](https://www.clay.com/) — Data enrichment and AI-powered outbound automation
+- [LeadSets](https://www.leadsets.ai/) - Unlimited B2B Contact Data for AI agents: prospect search, enrichment and email verification, from $29/mo
 
 ## Customer Support
 
