@@ -244,6 +244,7 @@ Curated list of resources to start and grow your startup.
 - [Secureframe](https://secureframe.com/) — SOC 2 and HIPAA compliance automation for startups
 
 # Tools
+- [LinkSubmit Demo](https://example.com) - 规则驱动的外链提交自动化工具
 
 ## AI
 
