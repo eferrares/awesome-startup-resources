@@ -415,6 +415,7 @@ Curated list of resources to start and grow your startup.
 - [Deel](https://www.deel.com/) — Hire and pay global and remote teams compliantly
 - [Remote](https://remote.com/) — Employer of Record for international hiring
 - [Workable](https://www.workable.com/) — Applicant tracking system for recruiting
+- [Cost of Employment Ruler](https://costofemploymentruler.com/us-employer-cost-calculator/) — Free US federal employer-cost calculator with editable salary, benefits and overhead, sourced assumptions, and explicit exclusions; no sign-up
 
 ## Market Research
 
