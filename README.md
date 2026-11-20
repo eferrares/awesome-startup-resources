@@ -407,7 +407,7 @@ Curated list of resources to start and grow your startup.
 - [Vercel](https://vercel.com/) — Fast deployments for frontend and full-stack apps
 - [Render](https://render.com/) — Modern Heroku alternative with generous free tier
 - [Fly.io](https://fly.io/) — Deploy apps globally close to users
-- [Dockhold](https://dockhold.eu/?ref=forum-github) &mdash; Always-on hosting for apps and APIs deployed from GitHub or a local folder
+- [Dockhold](https://dockhold.eu/?ref=forum-github) — Always-on hosting for apps and APIs deployed from GitHub or a local folder
 
 ## HR & People
 
