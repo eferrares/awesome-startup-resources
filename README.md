@@ -122,6 +122,7 @@ Curated list of resources to start and grow your startup.
 - [Pitch](https://pitch.com/) — Modern presentation tool built for startups
 - [Beautiful.ai](https://www.beautiful.ai/) — Slides that auto-format as you design
 - [Gamma](https://gamma.app/) — Create pitch decks and presentations via AI prompts
+- [Unicorn Factory](https://unicornfactory.ai/) — AI pitch deck review that scores a deck against investor criteria and suggests slide-by-slide fixes; first analysis is free
 
 # Videos
 
@@ -196,6 +197,7 @@ Curated list of resources to start and grow your startup.
 - [a16z START](https://a16z.com/start/) — Early-stage program by Andreessen Horowitz
 - [Endeavor](https://endeavor.org/) — Scale-up support network, strong in Brazil and emerging markets
 - [Distrito](https://distrito.me/) — Brazilian innovation hub and accelerator
+- [Unicorn Factory accelerator directory](https://unicornfactory.ai/accelerators) — Free searchable directory of 4,000+ accelerators and incubators with check size, equity, program length and next application deadline
 
 # Online Communities
 
@@ -223,6 +225,7 @@ Curated list of resources to start and grow your startup.
 - [Venture Deals by Brad Feld](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
+- [Unicorn Factory fundraising calculators](https://unicornfactory.ai/tools) — Free calculators for founders who are raising: SAFE dilution, round-size benchmarks from Form D filings, runway and dilution across rounds
 - [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — Standard SAFE, term sheets and legal templates
 
 # Equity Management
