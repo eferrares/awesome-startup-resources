@@ -415,6 +415,7 @@ Curated list of resources to start and grow your startup.
 - [Deel](https://www.deel.com/) — Hire and pay global and remote teams compliantly
 - [Remote](https://remote.com/) — Employer of Record for international hiring
 - [Workable](https://www.workable.com/) — Applicant tracking system for recruiting
+- [Opitor Handover Template](https://opitor.com/tools/handover-template) — Free handover document for leave, a role change or leaving a job: work in flight, deadlines, who is waiting on what, access and open decisions
 
 ## Market Research
 
