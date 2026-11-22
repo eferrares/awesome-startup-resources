@@ -106,6 +106,7 @@ Curated list of resources to start and grow your startup.
 - [SaaS Pages](https://saaspages.xyz) — A collection of the best landing pages with a focus on copywriting and design
 - [SaaS Frame](https://www.saasframe.io/) — Inspiration for SaaS Marketers & Product Designers
 - [Starter Story](https://www.starterstory.com/)
+- [AI Rich Human](https://www.airichhuman.com/) — Searchable business case studies with notes on launch costs, tools, and customer acquisition.
 - [Test your startup idea](https://blog.hubstaff.com/test-your-startup-idea/)
 - [The artist and the innovator](https://blog.leanstack.com/the-artist-and-the-innovator-e6b4888c5869)
 - [Don't start with an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
