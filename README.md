@@ -261,6 +261,7 @@ Curated list of resources to start and grow your startup.
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
+- [Opitor AI Chief of Staff Prompt Builder](https://opitor.com/tools/ai-chief-of-staff-prompt-builder) — Free prompts that make ChatGPT, Claude or Gemini a chief of staff for one founder: unanswered requests, commitments with dates, follow-up drafts and a weekly review
 
 ## No-Code / Low-Code
 
