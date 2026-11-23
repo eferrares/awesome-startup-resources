@@ -261,6 +261,7 @@ Curated list of resources to start and grow your startup.
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) — Free, open-source desktop app for Mac, Windows and Linux that runs AI agents for sales, marketing, support and more on your own computer, around the clock.
 
 ## No-Code / Low-Code
 
