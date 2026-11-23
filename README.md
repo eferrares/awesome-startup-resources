@@ -389,6 +389,7 @@ Curated list of resources to start and grow your startup.
 - [Calcrux](https://calcrux.com) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
 - [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
 - [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
+- [Invoice Generator](https://bestlatestapps.com/tools/invoice-generator/) — Free browser tool to make a PDF invoice with your logo, line items, tax, discount and balance due, in many currencies — no sign-up
 
 ## Payments
 
