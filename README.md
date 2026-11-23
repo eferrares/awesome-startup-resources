@@ -460,6 +460,7 @@ Curated list of resources to start and grow your startup.
 - [GoDaddy](https://www.godaddy.com/) — Largest domain registrar in the world
 - [Google Domains](https://domains.google/) — Simple registration integrated with Google Workspace
 - [Instant Domain Search](https://instantdomainsearch.com/) — Real-time domain availability check as you type
+- [BrandShield](https://brand-checker.appwrite.network/) — Free 78-TLD real-time domain availability, RDAP aftermarket detection, and USPTO trademark collision search
 
 ## Hiring
 
