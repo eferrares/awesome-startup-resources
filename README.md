@@ -181,6 +181,7 @@ Curated list of resources to start and grow your startup.
 - [Founders and co-founders by startups.com](https://www.startups.com/library/expert-advice/startup-founders-and-cofounders)
 - [How to Find a Co-Founder For Your Startup?](https://www.cloudways.com/blog/how-to-find-a-co-founder-for-startup/)
 - [How to split equity among co-founders](https://blog.ycombinator.com/splitting-equity-among-founders/)
+- [CofounderFit](https://www.cofounderfit.com/) — Free 62-question founder profile that compares two specific cofounders across 8 work-style dimensions; optional one-time paid session for roles, equity and vesting
 
 # KPIs and OKRs
 
