@@ -194,6 +194,7 @@ Curated list of resources to start and grow your startup.
 - [Techstars](https://www.techstars.com/) — Global accelerator network in 150+ cities
 - [Sequoia Arc](https://www.sequoiacap.com/arc/) — Early-stage founder program by Sequoia
 - [a16z START](https://a16z.com/start/) — Early-stage program by Andreessen Horowitz
+- [CoFound Solo](https://cofoundpartners.com/solo) — $500K fellowship for solo founders, with $500K in cloud credits and dedicated GTM and recruiting support
 - [Endeavor](https://endeavor.org/) — Scale-up support network, strong in Brazil and emerging markets
 - [Distrito](https://distrito.me/) — Brazilian innovation hub and accelerator
 
