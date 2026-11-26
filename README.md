@@ -157,6 +157,7 @@ Curated list of resources to start and grow your startup.
 
 - [The Mom Test](https://www.amazon.com.br/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U)
 - [Empathy Map](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/)
+- [Customer Interview Guide Generator](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/) — Free, no-login tool that writes 8 open, non-leading interview questions for churn, win-loss, discovery or pricing interviews
 
 # Customer Validation
 
