@@ -64,7 +64,7 @@ Curated list of resources to start and grow your startup.
 - [Founder Resources](https://www.founderresources.io/)
 - [Startup Handbook](https://versionone.vc/startup-handbook/)
 - [Reforge](https://www.reforge.com/) — Advanced programs on growth, retention, and product for founders and PMs
-- - [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
+- [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
 
 # Books
 
