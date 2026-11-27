@@ -64,6 +64,7 @@ Curated list of resources to start and grow your startup.
 - [Founder Resources](https://www.founderresources.io/)
 - [Startup Handbook](https://versionone.vc/startup-handbook/)
 - [Reforge](https://www.reforge.com/) — Advanced programs on growth, retention, and product for founders and PMs
+- [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
 
 # Books
 
@@ -136,7 +137,6 @@ Curated list of resources to start and grow your startup.
 - [Masters of Scale](https://mastersofscale.com/)
 - [a16z Podcast](https://a16z.com/podcasts/)
 - [Inside Intercom](https://www.intercom.com/blog/podcasts/)
-- [This is Product Management](https://www.thisisproductmanagement.com/)
 - [Product Led Podcast](https://productled.com/podcast)
 - Produto pelo Mundo
 - Mulheres de Produto
@@ -173,7 +173,7 @@ Curated list of resources to start and grow your startup.
 
 # Company Building
 
-- [WSGR Startup Basics: How to name your startup?](https://thisweekinstartups.com/name-startup-wsgr-startup-basics/?ref=startupstash)
+
 - [Growthhacklist](https://growthhacklist.com/) — Global community of makers & creators building an online business
 
 # Co-founders
@@ -193,7 +193,7 @@ Curated list of resources to start and grow your startup.
 - [Plug and Play](https://www.plugandplaytechcenter.com/)
 - [Techstars](https://www.techstars.com/) — Global accelerator network in 150+ cities
 - [Sequoia Arc](https://www.sequoiacap.com/arc/) — Early-stage founder program by Sequoia
-- [a16z START](https://a16z.com/start/) — Early-stage program by Andreessen Horowitz
+
 - [Endeavor](https://endeavor.org/) — Scale-up support network, strong in Brazil and emerging markets
 - [Distrito](https://distrito.me/) — Brazilian innovation hub and accelerator
 
@@ -221,7 +221,7 @@ Curated list of resources to start and grow your startup.
 - [A curated library of VC pitch decks](https://www.chagency.co.uk/getstartupfunding/)
 - [DDScore Mid-Cycle Narrative Drift Check](https://mheilimo.github.io/mid-cycle-narrative-drift-check/) — Free browser-only worksheet for founders between rounds to compare business changes with next-round evidence needs across 12 dimensions; no account or upload required
 - [Venture Deals by Brad Feld](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
-- [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
+
 - [Startup Financing Calculator](https://calculator.ledgy.com)
 - [SAFE Documents by Y Combinator](https://www.ycombinator.com/documents/) — Standard SAFE, term sheets and legal templates
 
