@@ -137,7 +137,6 @@ Curated list of resources to start and grow your startup.
 - [Masters of Scale](https://mastersofscale.com/)
 - [a16z Podcast](https://a16z.com/podcasts/)
 - [Inside Intercom](https://www.intercom.com/blog/podcasts/)
-- [This is Product Management](https://www.thisisproductmanagement.com/)
 - [Product Led Podcast](https://productled.com/podcast)
 - Produto pelo Mundo
 - Mulheres de Produto
